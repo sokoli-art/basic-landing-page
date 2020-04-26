@@ -1,0 +1,50 @@
+nav{
+    background-color: black;
+}
+nav li{
+    color: white;
+    display: inline-block;
+    margin: 25px;
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    nav a :hover{
+        color: greenyellow;        
+    }
+nav ul{
+    list-style: none;
+    text-align: center;
+    
+    
+}
+main{
+    background-color: lightgrey;
+}
+main h1{
+    text-align: center;
+}
+main p{
+    text-align: end;
+}
+footer{
+    background-color:black;
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+main button{
+    color: white;
+    background-color: orangered;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    
+}
+footer button{
+    color: white;
+    background-color: orangered;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    width: 500px;
+}
